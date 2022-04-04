@@ -1,0 +1,11 @@
+@font-face {
+ font-family: "just-peachy";
+ src: url("just_peachy_demo-webfont.woff") format("woff");
+ src: url("just_peachy_demo-webfont.woff2") format("woff2");
+ font-weight: normal;
+ font-style: normal;
+}
+
+.just_peachy {
+ font-family: "just-peachy";
+}
